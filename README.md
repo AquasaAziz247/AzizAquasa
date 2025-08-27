@@ -54,25 +54,24 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aquasa Aziz&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aquasa Aziz&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AquasaAziz247&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AquasaAziz247&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquasa Aziz&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AquasaAziz247&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aquasa Aziz&theme=radical&no-frame=true&margin-w=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AquasaAziz247&theme=radical&no-frame=true&margin-w=5"/>
 </p>
 
----
 
 ## ☕ Support Me  
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Aquasa Aziz"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+  <a href="https://www.buymeacoffee.com/AquasaAziz247"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
